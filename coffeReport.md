@@ -25,6 +25,11 @@ In between samlpes, the ATR cell was thoroughly cleaned using ethanol 70% first 
 ## **3. Results**
 The spectra of the different coffee samples is shown in Figures 1-4.
 
-[sampleOne]
-
-
+[sampleOne](https://github.com/paucablop/coffee.analysis/tree/main/img/sampleOne.png)
+Figure 1
+[sampleTwo](https://github.com/paucablop/coffee.analysis/tree/main/img/sampleTwo.png)
+Figure 2
+[sampleThree](https://github.com/paucablop/coffee.analysis/tree/main/img/sampleThree.png)
+Figure 3
+[sampleFour](https://github.com/paucablop/coffee.analysis/tree/main/img/sampleFour.png)
+Figure 4
