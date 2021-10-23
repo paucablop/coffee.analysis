@@ -41,3 +41,6 @@ Figure 3
 [<img src="https://github.com/paucablop/coffee.analysis/tree/main/img/sampleFour.png" width="750"/>](https://github.com/paucablop/coffee.analysis/tree/main/img/sampleFour.png)
 
 Figure 4
+https://render.githubusercontent.com/render/math?math=e^{i%20\pi}%20=%20-1
+
+$$\sum_{n=1}^{10} n^2$$
